@@ -1,0 +1,1 @@
+export { SvgFetchLogo } from './SvgFetchLogo';
